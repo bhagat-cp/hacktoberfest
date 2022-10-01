@@ -1,0 +1,1 @@
+console.log('Welcome to gh repo clone hacktoberfest 2022')
